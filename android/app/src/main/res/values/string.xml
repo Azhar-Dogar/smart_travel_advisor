@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'utf-8'?>
+<resources>
+<string name="app_name">smart_travel_advisor</string>
+<string name="facebook_app_id">1197482050839146</string>
+<string name="fb_login_protocol_scheme">fb1197482050839146</string>
+<string name="facebook_client_token">8fde9fcf5a4c362981d6d685bf13efd4</string>
+</resources>

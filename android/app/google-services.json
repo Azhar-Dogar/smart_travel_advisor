@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30349273835",
+    "project_id": "smarttraveladvisor",
+    "storage_bucket": "smarttraveladvisor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30349273835:android:d8792666c421cac8722cae",
+        "android_client_info": {
+          "package_name": "com.example.smart_travel_advisor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30349273835-qvc5rddrk63g28u6qi5e04oko1lef1on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbw1D4TQ6EryT0yUElLrxjMEJfFguDctc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30349273835-qvc5rddrk63g28u6qi5e04oko1lef1on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

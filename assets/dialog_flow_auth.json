@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "traveradvisorbot-vlwx",
+  "private_key_id": "6118dc9cdde5e833ee27ff7dd4238eef92967616",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDBHKbuSish1NHi\nccdC/S9tRaRR/J7iYNHwOnBiso2DQqsUPaqgJMUTuR/dGeo3F+d4CD+wl19Q+tNn\nXJmc6dy23754/2snsCjc2h8hOilSHxdqRKkKIHi4/aJBV080cMBIzVtzyOnhgpzb\n8skiRdXW+VvdGBfskzdOGjkqZ7RRKDGOfqo8C6+lK/RkGenMn0Jm9oV7q51arrmo\nTCwzawrIMs84jV0y3az03gSHVmqs4QnOrZiEx02euIIQwIekPchsLcLuDl9guj9E\n8EBnUNpB0LMlPCwqvEJzwOcqBmqV+DRsupNZQCtliOma+ZJ1rwK6bRKyhPNR/UPy\nmTp8sP4HAgMBAAECggEADIjfydtr4SimUiAg8qCPPlBORrBgcTexNENuz+ypyPvb\nes4TVI0MKgylE1S6ptiv3fegPrOoESJ+0IY82FWk39/tDzZDV0A5ejdCAU8OgtpO\nypCOyTbZE8KckFrGGbkVR82cBx2+YA/6iBt5Ky2yRLsB17JqTfygkwPjvCtoE4wa\nhaJ7DxRWQrXoTd/ozGdoaTnFkcWDnSi6gPbVeT1YTR7ZskXXCkQE4Ayo/ilCUyWT\nMA/hnNce7jvxT1FGJ0ABByYsRIgWDAJ1HRignPKHnHPlYpEpPLvvVKIuMjeluvzW\nU2HbDXp7QJEGCtDvgP+stvQ/+6XgH52/wBQu8WuENQKBgQDo06Xe8sxMGt1+OqJR\n214ldqe/PbgBa7QQjeQeu/urH37wtmymC/xlknn0PYtQw+BFZxXgg8O6NrBjxHZu\nNNpuvRXtPsrlQKjIth5AAc9BLU7MdQRP5MDOt6OY+dhJRdwxm0t8RYRXGmo62iTp\nKS8jVmro4yHmV6lr6m8eeyIPqwKBgQDUVRU3OSxKmf2JRgbZckEV4qYZS8H/dLmc\nA+9Qf3rerK/Uuds0zys7LlIIcPa5RYbTzoRoY97tYjpK6yDt++O4/aDdUKybMDAA\nTTbauDOi0CWuZq4gEVlbysayFYEVFGlSsYK3iN8Sc6xGSErL1loN1loZI0x9DNGm\nHnGMyQAfFQJ/fJjHK4jDy/aUkfjO5P+AYowdOTrOPfRlaHaGnev7wpgYVrlJa5L+\nf1zj5tEIvTAV1Q5VptDc7cpWmw2IU3H1c029bjksW4M+0CqmBZryTu7wPHpi1F6W\n0Al2g2cxWAUK0YFJ5DdPm02Hi/cxyZVApKiajgb/HUXMZPQQgz9h+wKBgH/8NQiP\nZrok7eTjl9dT/hVCA5p1xp7DbemzmXmtDZPRBT81NAM16LoIZpv980mjtexPrBH8\nOPBfaAGmjrfEP/ROtLsSGKiGODjGUg0uQLmfu0bPT5+2tWUV6gSH38GkBwQ4STF1\nx/goTywiASuyrZ9vl+lVFJK/ulLmQM16jp8tAoGAKD3OvHgJX7Qb2i4og1xvJL8+\nLmg+FOy1G8V/uyBbnq1SPiIAWGi28e7urDUdrefkrQbx0jY0WqCEbLS6Z/ljLD8U\nr4w5hVal8OrlLhf4UYEg1imT5bWi68k4vVjDXhvzqjPi9c6jC2DoO2b0ineGK3Ox\ngNuX2GxUTfaX0YqyI7w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "traveladvisorbot@traveradvisorbot-vlwx.iam.gserviceaccount.com",
+  "client_id": "114014464003211479297",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/traveladvisorbot%40traveradvisorbot-vlwx.iam.gserviceaccount.com"
+}
